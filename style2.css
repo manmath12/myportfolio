@@ -1,0 +1,43 @@
+.r1{
+
+    align-items: center;
+    margin-left: 250px;
+}
+
+.info{
+
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;;
+}
+
+.hh{
+
+    color: rgb(255, 136, 0);
+}
+
+.jobme{
+    margin-top: 5%;
+
+    margin-left: 10%;
+}
+
+.header{
+
+    background-color: #213555; 
+}
+
+.container{
+
+    display: flex;
+
+}
+.lk{
+
+    margin-left: 20px;
+}
+
+.bbtn{
+
+    margin-left: 90%;
+    margin-bottom: 2%;
+}

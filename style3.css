@@ -1,0 +1,58 @@
+.okk{
+
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.hh{
+
+    color: rgb(255, 136, 0);
+    margin-bottom: 2%;
+}
+
+.proj{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.ambuimmg
+{
+    height: 18rem;
+}
+
+.con{
+
+    height: 30rem;
+}
+
+.card-body{
+
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#carouselExampleIndicators{
+
+    width: 40%;
+    height: 40%;
+
+   margin-left: 30%;
+   margin-right: 20%;
+   margin-top: 0%;
+   margin-bottom: 2%;
+}
+
+#slide
+{
+    margin-top: 5%;
+}
+
+#caption{
+
+    margin-left: 15%;
+}
+
+.btn{
+
+    margin-left: 45%;
+    margin-top: 0.4rem;
+    
+}
